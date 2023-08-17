@@ -23,7 +23,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
    2.Abra o projeto em sua IDE Java favorita.
   
    3.Verifique se as bibliotecas Gson e HttpClient estão adicionadas ao projeto. Se não estiverem, você pode adicionar o JAR 
-   do Gson e importar o HttpClient a partir do Java 11.
+     do Gson e importar o HttpClient a partir do Java 11.
 
 ### Uso
 1.Execute a classe `App.java` para iniciar o programa.
