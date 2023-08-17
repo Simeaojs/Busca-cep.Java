@@ -20,8 +20,10 @@ Certifique-se de ter o seguinte instalado em sua máquina:
    ```
    git clone https://github.com/SEU_USUARIO/consulta-cep.git
    ```
-  2.Abra o projeto em sua IDE Java favorita .
-  3.Verifique se as bibliotecas Gson e HttpClient estão adicionadas ao projeto. Se não estiverem, você pode adicionar o JAR do Gson e importar o HttpClient a partir do Java 11.
+   2.Abra o projeto em sua IDE Java favorita.
+  
+   3.Verifique se as bibliotecas Gson e HttpClient estão adicionadas ao projeto. Se não estiverem, você pode adicionar o JAR 
+   do Gson e importar o HttpClient a partir do Java 11.
 
 ### Uso
 1.Execute a classe `App.java` para iniciar o programa.
@@ -48,4 +50,4 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 
 
 ### Licença
-Este projeto é licenciado sob a Licença XYZ.
+ Este projeto é licenciado sob a Licença MIT - consulte o arquivo ***LICENSE*** para obter mais detalhes.
