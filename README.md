@@ -18,7 +18,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 1. Clone este repositório para sua máquina local (ou baixe o código-fonte ZIP):
 
    ```
-   git clone https://github.com/SEU_USUARIO/consulta-cep.git
+   git clone https://github.com/Simeaojs/Busca-cep.Java.git
    ```
    2.Abra o projeto em sua IDE Java favorita.
   
